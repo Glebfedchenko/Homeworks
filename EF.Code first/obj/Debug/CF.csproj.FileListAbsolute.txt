@@ -1,0 +1,10 @@
+C:\Users\Gleb\Desktop\Terrasoft\Task 15.Entity\CF\CF\bin\Debug\CF.exe.config
+C:\Users\Gleb\Desktop\Terrasoft\Task 15.Entity\CF\CF\bin\Debug\CF.exe
+C:\Users\Gleb\Desktop\Terrasoft\Task 15.Entity\CF\CF\bin\Debug\CF.pdb
+C:\Users\Gleb\Desktop\Terrasoft\Task 15.Entity\CF\CF\bin\Debug\EntityFramework.dll
+C:\Users\Gleb\Desktop\Terrasoft\Task 15.Entity\CF\CF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Gleb\Desktop\Terrasoft\Task 15.Entity\CF\CF\bin\Debug\EntityFramework.xml
+C:\Users\Gleb\Desktop\Terrasoft\Task 15.Entity\CF\CF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Gleb\Desktop\Terrasoft\Task 15.Entity\CF\CF\obj\Debug\CF.csprojResolveAssemblyReference.cache
+C:\Users\Gleb\Desktop\Terrasoft\Task 15.Entity\CF\CF\obj\Debug\CF.exe
+C:\Users\Gleb\Desktop\Terrasoft\Task 15.Entity\CF\CF\obj\Debug\CF.pdb
